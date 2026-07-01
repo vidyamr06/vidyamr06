@@ -1,7 +1,7 @@
 # 💫 About Me: 
 # Hii I'm Vidyashree MR here...
 
-<br>✨️ Pursuing B.E. in Information Science and Engineering (ISE).<br> <br>✨️ Passionate about Python programming and Data Structures & Algorithms (DSA). <br><br>✨️ Interested in AI and learning new technologies. <br><br>✨️ Enjoy solving coding problems and building projects. <br><br>✨️ Quick learner with strong problem-solving and teamwork skills.<br>
+<br>✨️ I'm Pursuing B.E. in Information Science and Engineering (ISE).<br> <br>✨️ I'm Passionate about Python programming and Data Structures & Algorithms (DSA). <br><br>✨️ I'm Interested in AI and learning new technologies. <br><br>✨️ I'm Enjoy solving coding problems and building projects. <br><br>✨️ I'm  Quick learner with strong problem-solving and teamwork skills.<br>
 
 
 ## 🌐 Socials:
